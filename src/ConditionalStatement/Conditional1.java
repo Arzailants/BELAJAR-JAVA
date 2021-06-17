@@ -67,6 +67,8 @@ public class Conditional1 {
         System.out.println("TUNJANGAN ISTRI = " +objek1.hitungTunjanganIstri(objek1.statusMenikah));
         System.out.println("TUNJANGAN ANAK = " +objek1.hitungTunjanganAnak(objek1.jumlahAnak));
         System.out.println("POTONGAN = " +objek1.hitungPotongan());
+
+        System.out.println("===================");
         System.out.println("GAJI BERSIH = " +objek1.gajiBersih());
     }
 

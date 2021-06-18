@@ -32,7 +32,7 @@ class MasukkanString{
     public void tampil(){
         for (int i = 0; i < namaArray.length; i++){
             PanjangString objek = new PanjangString();
-            System.out.println("Nama Karyawan = " +namaArray[i]+ " (Panjang = " +objek.hitungPanjang(namaArray[i]) +")");
+            System.out.println("Nama Karyawan = " +namaArray[i]+ " (Panjang Nama = " +objek.hitungPanjang(namaArray[i]) +")");
         }
     }
 }

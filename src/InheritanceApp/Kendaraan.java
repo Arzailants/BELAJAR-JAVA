@@ -49,6 +49,6 @@ class KeretaApi extends Kendaraan{
     public int jumlahGerbong;
 
     public void tampilGerbong(){
-        System.out.format("%s Jumlah Gerbong = %d \n", super.nama, jumlahGerbong);
+        System.out.format("%s Jumlah Semua Gerbong = %d \n", super.nama, jumlahGerbong);
     }
 }

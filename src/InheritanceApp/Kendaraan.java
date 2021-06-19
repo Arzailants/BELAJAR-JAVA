@@ -2,53 +2,84 @@ package InheritanceApp;
 
 public class Kendaraan {
 
-    // MEMBUAT ATRIBUT
-    public int jumlahRoda;
-    public int jumlahTempatDuduk;
-    public String nama;
+    // MEMBUAT ATTRIBUT
+    private String namaKendaraan;
+    private int jumlahRoda;
+    private int jumlahTempatDuduk;
 
-    // MEMBUAT METHOD TAMPIL JUMLAH RODA
-    public void tampilJumlahRoda(){
-        System.out.println(this.nama+ " Jumlah Rodanya = " +this.jumlahRoda);
+    // MEMBUAT GETTER DAN SETTER
+    // GET
+    public String getNamaKendaraan(){
+        return namaKendaraan;
     }
 
-    // MEMBUAT METHOD TAMPIL JUMLAH TEMPAT DUDUK
-    public void tampilJumlahTempatDuduk(){
-        System.out.println(this.nama+ " Jumlah Tempat Duduk = "+this.jumlahTempatDuduk);
+    public int getJumlahRoda(){
+        return jumlahRoda;
     }
 
+    public int getJumlahTempatDuduk(){
+        return jumlahTempatDuduk;
+    }
+
+    // SET
+    public void setNamaKendaraan(String namaKendaraan){
+        this.namaKendaraan = namaKendaraan;
+    }
+
+    public void setJumlahRoda(int jumlahRoda){
+        this.jumlahRoda = jumlahRoda;
+    }
+
+    public void setJumlahTempatDuduk(int jumlahTempatDuduk){
+        this.jumlahTempatDuduk = jumlahTempatDuduk;
+    }
+
+    // MEMBUAT METHOD UNTUK MENAMPILKAN
+    public String toString(){
+        String data = "Nama Kendaraan = " +this.namaKendaraan+ "\n"+
+                "Jumlah Roda = " +this.jumlahRoda+ "\n"+
+                "Jumlah Tempat duduk = " +this.jumlahTempatDuduk;
+        return data;
+    }
+
+    // MAIN CLASS
     public static void main(String[] args) {
 
-        //
-        Kendaraan kendaraan = new Kendaraan();
-        kendaraan.nama = "Pajero Sport";
-        kendaraan.jumlahRoda = 4;
-        kendaraan.jumlahTempatDuduk = 4;
-        kendaraan.tampilJumlahRoda();
-        kendaraan.tampilJumlahTempatDuduk();
+        Kendaraan objekKendaraan = new Kendaraan();
+        System.out.println("Mobil");
+        objekKendaraan.setNamaKendaraan("Avanza");
+        objekKendaraan.setJumlahRoda(4);
+        objekKendaraan.setJumlahTempatDuduk(4);
+        String tampil = objekKendaraan.toString();
+        System.out.println(tampil);
 
-        System.out.println("============");
+        KeretaApi objekKeretaApi = new KeretaApi();
+        System.out.println("\nKereta Api");
+        objekKeretaApi.setNamaKendaraan("Avanza");
+        objekKeretaApi.setJumlahRoda(50);
+        objekKeretaApi.setJumlahGerbong(15);
+        System.out.println("Nama Kendaraan = " +objekKeretaApi.getNamaKendaraan());
+        System.out.println("Jumlah Gerbong = " +objekKeretaApi.getJumlahGerbong());
+        System.out.println("Jumlah Roda = " +objekKeretaApi.getJumlahRoda());
+        System.out.println("Jumlah Tempat Duduk = " +objekKeretaApi.getJumlahTempatDuduk());
 
-        // INSTANSIASI OBJEK KELAS KERETA API
-        KeretaApi keretaApi = new KeretaApi();
-        keretaApi.nama = "Kereta Api";
-        keretaApi.jumlahRoda = 50;
-        keretaApi.jumlahTempatDuduk = 100;
-        keretaApi.jumlahGerbong = 12;
-        keretaApi.tampilGerbong();
-        keretaApi.tampilJumlahRoda();
-        keretaApi.tampilJumlahTempatDuduk();
     }
-
-
 }
 
 
-class KeretaApi extends Kendaraan{
+class KeretaApi extends Kendaraan {
 
-    public int jumlahGerbong;
+    // MEMBUAT ATTRIBUT
+    private int jumlahGerbong;
 
-    public void tampilGerbong(){
-        System.out.format("%s Jumlah Semua Gerbong di Kereta = %d \n", super.nama, jumlahGerbong);
+    // GETTER SETTER
+    // GET
+    public int getJumlahGerbong(){
+        return jumlahGerbong;
     }
+
+    public void setJumlahGerbong(int jumlahGerbong){
+        this.jumlahGerbong = jumlahGerbong;
+    }
+
 }

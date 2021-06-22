@@ -10,16 +10,22 @@ package belajar.method1;
  * @author vaio
  */
 public class BelajarMethod1 {
-    public static int MyMethod(int x, int y){
-        return x + y + 10;
-    }
+static int myMethod(int x, int y, int z){
+    return x + y + z;
+}
+static double myMethod(double x, double y, double z){
+    return x + y + z;
+}
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // METHOD NILAI KEMBALIAN
-        int z = MyMethod(10, 10);
-        System.out.println(z);
+        
+    // MEMBUAT METHOD DAN MEMANGGILNYA
+    int nilai1 = myMethod(10, 10, 10);
+    double nilai2 = myMethod(20.20, 20.20, 20.20);
+        System.out.println("Hasil dari Nilai 1 = " +nilai1);
+        System.out.println("Hasil dari Nilai 2 = " +nilai2);
     }
     
 }

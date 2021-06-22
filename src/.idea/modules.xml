@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR10_MASUKKAN_DATA_NAMA/BELAJAR10_MASUKKAN_DATA_NAMA.iml" filepath="$PROJECT_DIR$/BELAJAR10_MASUKKAN_DATA_NAMA/BELAJAR10_MASUKKAN_DATA_NAMA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR11_IF_GANJIL_GENAP/BELAJAR11_IF_GANJIL_GENAP.iml" filepath="$PROJECT_DIR$/BELAJAR11_IF_GANJIL_GENAP/BELAJAR11_IF_GANJIL_GENAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR12_IF_NILAI_TERBESAR/BELAJAR12_IF_NILAI_TERBESAR.iml" filepath="$PROJECT_DIR$/BELAJAR12_IF_NILAI_TERBESAR/BELAJAR12_IF_NILAI_TERBESAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR13_IF_NILAI_TERBESAR2/BELAJAR13_IF_NILAI_TERBESAR2.iml" filepath="$PROJECT_DIR$/BELAJAR13_IF_NILAI_TERBESAR2/BELAJAR13_IF_NILAI_TERBESAR2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR14_IF_PERNILAIAN1/BELAJAR14_IF_PERNILAIAN1.iml" filepath="$PROJECT_DIR$/BELAJAR14_IF_PERNILAIAN1/BELAJAR14_IF_PERNILAIAN1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR15_IF_CHAR_KAPITAL/BELAJAR15_IF_CHAR_KAPITAL.iml" filepath="$PROJECT_DIR$/BELAJAR15_IF_CHAR_KAPITAL/BELAJAR15_IF_CHAR_KAPITAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR16_IF_PENILAIAN_IPK/BELAJAR16_IF_PENILAIAN_IPK.iml" filepath="$PROJECT_DIR$/BELAJAR16_IF_PENILAIAN_IPK/BELAJAR16_IF_PENILAIAN_IPK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR17_IF_BULAN_BERDASARKAN_ANGKA/BELAJAR17_IF_BULAN_BERDASARKAN_ANGKA.iml" filepath="$PROJECT_DIR$/BELAJAR17_IF_BULAN_BERDASARKAN_ANGKA/BELAJAR17_IF_BULAN_BERDASARKAN_ANGKA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR18_JUMLAH_BULAN/BELAJAR18_JUMLAH_BULAN.iml" filepath="$PROJECT_DIR$/BELAJAR18_JUMLAH_BULAN/BELAJAR18_JUMLAH_BULAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR19_KAMUS_BHSINGGRIS/BELAJAR19_KAMUS_BHSINGGRIS.iml" filepath="$PROJECT_DIR$/BELAJAR19_KAMUS_BHSINGGRIS/BELAJAR19_KAMUS_BHSINGGRIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR1_LUAS_LINGKARAN/BELAJAR1_LUAS_LINGKARAN.iml" filepath="$PROJECT_DIR$/BELAJAR1_LUAS_LINGKARAN/BELAJAR1_LUAS_LINGKARAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR20_KAMUS_BHSINGGRIS_2/BELAJAR20_KAMUS_BHSINGGRIS_2.iml" filepath="$PROJECT_DIR$/BELAJAR20_KAMUS_BHSINGGRIS_2/BELAJAR20_KAMUS_BHSINGGRIS_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR21_MENCARI_BILANGAN_TERBESAR/BELAJAR21_MENCARI_BILANGAN_TERBESAR.iml" filepath="$PROJECT_DIR$/BELAJAR21_MENCARI_BILANGAN_TERBESAR/BELAJAR21_MENCARI_BILANGAN_TERBESAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR22_MENCARI_BILANGAN_TERBESAR_2/BELAJAR22_MENCARI_BILANGAN_TERBESAR_2.iml" filepath="$PROJECT_DIR$/BELAJAR22_MENCARI_BILANGAN_TERBESAR_2/BELAJAR22_MENCARI_BILANGAN_TERBESAR_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR2_UCAPAN/BELAJAR2_UCAPAN.iml" filepath="$PROJECT_DIR$/BELAJAR2_UCAPAN/BELAJAR2_UCAPAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR3_KARAKTER_ESCAPE/BELAJAR3_KARAKTER_ESCAPE.iml" filepath="$PROJECT_DIR$/BELAJAR3_KARAKTER_ESCAPE/BELAJAR3_KARAKTER_ESCAPE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR4_LITERAL_FINAL/BELAJAR4_LITERAL_FINAL.iml" filepath="$PROJECT_DIR$/BELAJAR4_LITERAL_FINAL/BELAJAR4_LITERAL_FINAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR5_FORMAT_STRING/BELAJAR5_FORMAT_STRING.iml" filepath="$PROJECT_DIR$/BELAJAR5_FORMAT_STRING/BELAJAR5_FORMAT_STRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR6_OPERATOR_BIT/BELAJAR6_OPERATOR_BIT.iml" filepath="$PROJECT_DIR$/BELAJAR6_OPERATOR_BIT/BELAJAR6_OPERATOR_BIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR6_WHILE/BELAJAR6_WHILE.iml" filepath="$PROJECT_DIR$/BELAJAR6_WHILE/BELAJAR6_WHILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR7_STRING_KONKATENASI/BELAJAR7_STRING_KONKATENASI.iml" filepath="$PROJECT_DIR$/BELAJAR7_STRING_KONKATENASI/BELAJAR7_STRING_KONKATENASI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR7_WHILE6_2/BELAJAR7_WHILE6_2.iml" filepath="$PROJECT_DIR$/BELAJAR7_WHILE6_2/BELAJAR7_WHILE6_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR8_OPERATOR++/BELAJAR8_OPERATOR++.iml" filepath="$PROJECT_DIR$/BELAJAR8_OPERATOR++/BELAJAR8_OPERATOR++.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR9_MASUKKAN_DATA_DENGAN_SCANNER/BELAJAR9_MASUKKAN_DATA_DENGAN_SCANNER.iml" filepath="$PROJECT_DIR$/BELAJAR9_MASUKKAN_DATA_DENGAN_SCANNER/BELAJAR9_MASUKKAN_DATA_DENGAN_SCANNER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_2.4_BAB_2/BELAJAR_2.4_BAB_2.iml" filepath="$PROJECT_DIR$/BELAJAR_2.4_BAB_2/BELAJAR_2.4_BAB_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_FOR_1/BELAJAR_FOR_1.iml" filepath="$PROJECT_DIR$/BELAJAR_FOR_1/BELAJAR_FOR_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_FOR_2/BELAJAR_FOR_2.iml" filepath="$PROJECT_DIR$/BELAJAR_FOR_2/BELAJAR_FOR_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_FOR_3/BELAJAR_FOR_3.iml" filepath="$PROJECT_DIR$/BELAJAR_FOR_3/BELAJAR_FOR_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_FOR_BIL_PRIMA/BELAJAR_FOR_BIL_PRIMA.iml" filepath="$PROJECT_DIR$/BELAJAR_FOR_BIL_PRIMA/BELAJAR_FOR_BIL_PRIMA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_STRING_MEMBALIKAN_STRING_WHILE/BELAJAR_STRING_MEMBALIKAN_STRING_WHILE.iml" filepath="$PROJECT_DIR$/BELAJAR_STRING_MEMBALIKAN_STRING_WHILE/BELAJAR_STRING_MEMBALIKAN_STRING_WHILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_WHILE_1/BELAJAR_WHILE_1.iml" filepath="$PROJECT_DIR$/BELAJAR_WHILE_1/BELAJAR_WHILE_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_WHILE_3/BELAJAR_WHILE_3.iml" filepath="$PROJECT_DIR$/BELAJAR_WHILE_3/BELAJAR_WHILE_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_WHILE_4/BELAJAR_WHILE_4.iml" filepath="$PROJECT_DIR$/BELAJAR_WHILE_4/BELAJAR_WHILE_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_WHILE_5/BELAJAR_WHILE_5.iml" filepath="$PROJECT_DIR$/BELAJAR_WHILE_5/BELAJAR_WHILE_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_WHILE_7_STRING/BELAJAR_WHILE_7_STRING.iml" filepath="$PROJECT_DIR$/BELAJAR_WHILE_7_STRING/BELAJAR_WHILE_7_STRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BELAJAR_WHILE_SIX/BELAJAR_WHILE_SIX.iml" filepath="$PROJECT_DIR$/BELAJAR_WHILE_SIX/BELAJAR_WHILE_SIX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BUKU ALGORITMA JAVA.iml" filepath="$PROJECT_DIR$/.idea/BUKU ALGORITMA JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+BilanganPembagi/Belajar+BilanganPembagi.iml" filepath="$PROJECT_DIR$/Belajar+BilanganPembagi/Belajar+BilanganPembagi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+BilanganPrima/Belajar+BilanganPrima.iml" filepath="$PROJECT_DIR$/Belajar+BilanganPrima/Belajar+BilanganPrima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+BungaBank/Belajar+BungaBank.iml" filepath="$PROJECT_DIR$/Belajar+BungaBank/Belajar+BungaBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+DeretTurun/Belajar+DeretTurun.iml" filepath="$PROJECT_DIR$/Belajar+DeretTurun/Belajar+DeretTurun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+DeretTurun2/Belajar+DeretTurun2.iml" filepath="$PROJECT_DIR$/Belajar+DeretTurun2/Belajar+DeretTurun2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+Faktorial1/Belajar+Faktorial1.iml" filepath="$PROJECT_DIR$/Belajar+Faktorial1/Belajar+Faktorial1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+Ifelse+nilaiterbesar/Belajar+Ifelse+nilaiterbesar.iml" filepath="$PROJECT_DIR$/Belajar+Ifelse+nilaiterbesar/Belajar+Ifelse+nilaiterbesar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+Karakter/Belajar+Karakter.iml" filepath="$PROJECT_DIR$/Belajar+Karakter/Belajar+Karakter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+MembalikkanNama/Belajar+MembalikkanNama.iml" filepath="$PROJECT_DIR$/Belajar+MembalikkanNama/Belajar+MembalikkanNama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+Menentukan+BilanganPrima/Belajar+Menentukan+BilanganPrima.iml" filepath="$PROJECT_DIR$/Belajar+Menentukan+BilanganPrima/Belajar+Menentukan+BilanganPrima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+Method1/Belajar+Method1.iml" filepath="$PROJECT_DIR$/Belajar+Method1/Belajar+Method1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+PerulanganFor1/Belajar+PerulanganFor1.iml" filepath="$PROJECT_DIR$/Belajar+PerulanganFor1/Belajar+PerulanganFor1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+SwitchCase/Belajar+SwitchCase.iml" filepath="$PROJECT_DIR$/Belajar+SwitchCase/Belajar+SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+for1/Belajar+for1.iml" filepath="$PROJECT_DIR$/Belajar+for1/Belajar+for1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+ifelse/Belajar+ifelse.iml" filepath="$PROJECT_DIR$/Belajar+ifelse/Belajar+ifelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+ifelse+kamus/Belajar+ifelse+kamus.iml" filepath="$PROJECT_DIR$/Belajar+ifelse+kamus/Belajar+ifelse+kamus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar+while1/Belajar+while1.iml" filepath="$PROJECT_DIR$/Belajar+while1/Belajar+while1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LATIHAN1_NILAI_LULUS_DAN_TIDAK/LATIHAN1_NILAI_LULUS_DAN_TIDAK.iml" filepath="$PROJECT_DIR$/LATIHAN1_NILAI_LULUS_DAN_TIDAK/LATIHAN1_NILAI_LULUS_DAN_TIDAK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LATIHAN2_MEMBUAT_NILAI_ABSOLUT/LATIHAN2_MEMBUAT_NILAI_ABSOLUT.iml" filepath="$PROJECT_DIR$/LATIHAN2_MEMBUAT_NILAI_ABSOLUT/LATIHAN2_MEMBUAT_NILAI_ABSOLUT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LATIHAN3_MEMBUAT_LOGIKA/LATIHAN3_MEMBUAT_LOGIKA.iml" filepath="$PROJECT_DIR$/LATIHAN3_MEMBUAT_LOGIKA/LATIHAN3_MEMBUAT_LOGIKA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LATIHAN4_MEMBUAT_LOGIKA2/LATIHAN4_MEMBUAT_LOGIKA2.iml" filepath="$PROJECT_DIR$/LATIHAN4_MEMBUAT_LOGIKA2/LATIHAN4_MEMBUAT_LOGIKA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LATIHAN5_MEMBUAT_LOGIKA3/LATIHAN5_MEMBUAT_LOGIKA3.iml" filepath="$PROJECT_DIR$/LATIHAN5_MEMBUAT_LOGIKA3/LATIHAN5_MEMBUAT_LOGIKA3.iml" />
+    </modules>
+  </component>
+</project>
